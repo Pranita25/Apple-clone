@@ -53,7 +53,7 @@ export default function ContentGrid() {
         ></div>
         <div className="text-white text-2xl text-center mt-80 justify-center w-[600px] flex flex-col mx-auto">
           <p>Apple Worldwide Developers Conference</p>
-          <p className="mb-2">Join us online June 5-9</p>
+          <p className="mb-2">Join us online August 12-15</p>
           <div
             onMouseOver={() => {
               setdevLearn(true);
